@@ -1,0 +1,31 @@
+[
+  {
+    "id": "4",
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "quantity": 2
+    
+  },
+
+  {
+    "id": "1",
+    "title": "Legend of The Invincibles",
+    "author": "Dugi",
+    "quantity": 2
+  },
+
+  {
+    "id": "2",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "quantity": 2
+  },
+
+  {
+    "id": "3",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "quantity": 2
+  }
+
+]
